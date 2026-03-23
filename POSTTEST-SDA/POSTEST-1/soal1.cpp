@@ -1,3 +1,5 @@
+// Nama: Muhamad Akbar Pratama
+// Nim : 2509106091
 #include <iostream>
 using namespace std;
 
